@@ -1,0 +1,11 @@
+# dsh-optimize-prompts — one additive row over the shipped Web composition.
+#
+# The Host half owns the settings document, the browser routes, and the model
+# call; the browser half (declared by package.json's dsh.client) renders the
+# optimize button beside the composer's permission preset and the settings page.
+# Nothing shipped is overridden, so disabling or removing this bundle restores
+# the built-in composer exactly.
+
+- insert:
+    - id: optimize-prompts
+      name: 'dsh-optimize-prompts'

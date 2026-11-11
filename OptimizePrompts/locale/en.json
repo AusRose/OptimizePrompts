@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Optimize Prompts",
+    "description": "Optimize the composer draft beside the \"Workspace Write\" permission selector, with optional image context and validated file/skill references. The result only replaces the draft and is never sent. Restart DeepSeek Harness after installing or updating."
+  }
+}
